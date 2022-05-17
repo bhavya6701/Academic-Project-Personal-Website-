@@ -14,4 +14,4 @@ To open the project, follow the steps given below.
 7. Enter the given credentials: (Username: Bhavya, Password: 123456).
 8. Thereafter, you can check other features on the webpage.
 
-Thankyou for checking this project :)
+Thanks for checking out my project :)
