@@ -1,0 +1,159 @@
+body {
+    background-color: #2d2d2d;
+    font-family: 'Courier New';
+    color: #00ffff;
+}
+a {
+    text-decoration: none;
+    color: #000000; 
+}
+table {
+    width: 100%;
+    font-size: 175%;
+    font-family: 'Gill Sans MT';
+    text-align: center;   
+    background-color: #2d2d2d;
+    position: fixed;     
+    top: 0%;
+    left: 0%;
+}
+th {
+    background-color: #de2b45;
+    border-bottom: 2px solid #00ffff;
+    font-weight: lighter;   
+    width: 16%;
+}
+td {
+    width: 16%;
+    background-color: #00ffff;
+}
+
+hr {
+    border-color: #de2b45;
+}
+hr.home {
+    width: 50%;
+}
+
+div {
+    text-align: center;
+}
+div.home1 {
+    font-size: 17px;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+div.home2 {
+    text-align: justify;
+    font-size: 15px;
+    border: #de2b45;
+    border-style: solid;
+    padding: 10px;
+}
+
+img.home {
+    border: 5px solid #00ffff;
+}
+
+img.admin {
+    border: 2px dotted #00ffff;
+}
+
+textarea {
+    margin-left: 1px;
+    font-size: 15px;
+    text-align: left;
+    background-color: #ffffff;
+}
+
+p {
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+p.admin {
+    text-align: center;
+    font-size: 20px;
+}
+
+p.contact2 {
+    font-size: 18px;
+}
+
+p.social {
+    text-align: center;
+    font-size: 17px;
+}
+
+button {
+    font-size: 18px;
+    background-color: #00ffff;
+    height: 30px;
+    width: 100px;
+}
+
+input.admin {
+    margin-left: 1px;
+    background-color: #ffffff;
+    height: 20px;
+    width: 200px;
+}
+
+input.admin2 {
+    font-family: monospace;
+    font-size: 18px;
+    background-color: #00ffff;
+    height: 30px;
+    width: 85px;
+}
+
+h2.social {
+    text-align: center;
+    font-family: 'Courier New';
+    color: #de2b45;
+}
+
+fieldset.projects {
+    width: 1000px;
+    border-color: #de2b45;
+}
+
+li.projects {
+    margin: 25px;
+}
+
+li.resume {
+    font-size: 18px;
+    padding-bottom: 2px;
+}
+
+dt {
+    color: #00ffff;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+dd {
+    font-size: 18px;
+    padding-bottom: 2px;
+}
+
+span {
+    font-size: 20px;
+}
+
+span.resume1 {
+    color: #00ffff;
+}
+
+span.resume3 {
+    color: #de2b45;
+}
+
+#formContact {
+    margin: 20px;
+}
+
+#formAdmin {
+    text-align: center;
+}

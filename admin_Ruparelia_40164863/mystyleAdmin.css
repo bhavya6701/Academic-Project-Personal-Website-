@@ -1,0 +1,52 @@
+body {
+    background-color: #2d2d2d;
+    font-family: 'Courier New';
+    color: #00ffff;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #000000; 
+}
+.table-container {
+    height: 50px;
+}
+.table {
+    width: 100%;
+    font-size: 175%;
+    font-family: 'Gill Sans MT';
+    text-align: center;   
+    background-color: #2d2d2d;
+    position: fixed;     
+    top: 0%;
+    left: 0%;
+}
+.th {
+    background-color: #de2b45;
+    border-bottom: 2px solid #00ffff;
+    font-weight: lighter;   
+    width: 16%;
+}
+.td {
+    width: 16%;
+    background-color: #00ffff;
+}
+
+p {
+    font-size: x-large;
+}
+
+textarea, .textbox {
+    background-color: #ffffff25;
+    font-size: large;
+}
+
+.button {
+    font-size: 18px;
+    background-color: #00ffff;
+    height: 30px;
+    width: 12%;
+    border-radius: 5px;
+}
+
+
